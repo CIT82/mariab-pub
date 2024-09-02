@@ -1,3 +1,9 @@
-.element {
-    background-color: aqua;
+body { background-color: rgb(45, 45, 62);
+    background-color: rgb(80, 80, 147);
+}
+
+h1 {
+font-family: Arial, Helvetica, sans-serif;
+color: rgb(161, 168, 238);
+text-align: center;
 }
